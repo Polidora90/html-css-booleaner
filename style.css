@@ -1,0 +1,43 @@
+.container{
+    width: 55%;
+    margin: auto;
+}
+
+#thebooleaner {
+    width: 20%;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+header {
+ background-color: rgb(78, 160, 255);
+ width: 100%;
+}
+
+.headline {
+    font-size: 40px;font-weight: 900;
+    margin-bottom: 0;
+}
+
+.author {
+    color: grey;
+    font-size: 0.9rem;
+}
+
+.date {
+    color: grey;
+    font-size: 0.7rem;
+    margin-bottom: 20px;
+}
+
+html {
+    font-size: 20px;
+}
+
+.caption {
+    font-size: 0.6rem;
+}
+
+#thebooleaner {
+    text-decoration: none;
+}
